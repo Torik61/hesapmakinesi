@@ -20,10 +20,4 @@ while z < 3 :
         z = z + 1 
 
     if int(z) == 3:
-        print("3 Kere hata yaptınız. Program kapatılıyor.")
-    
-        
-
-
-
-
+        print("3 Kere hata yaptınız. Program kapatılıyor.")      
